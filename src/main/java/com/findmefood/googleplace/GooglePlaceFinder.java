@@ -17,7 +17,7 @@ public class GooglePlaceFinder {
     public List<RestaurantDetails> getResults(String query, String location) {
         List<Place> places = client.getPlacesByQuery(query, GooglePlaces.MAXIMUM_PAGE_RESULTS,
                 Param.name("language").value("en"),
-                Param.name("opennow").value(true),
+                Param.name("opennow").value(false),
                 Param.name("type").value("restaurant"),
                 Param.name("location").value(location),
                 Param.name("radius").value("1000"));
