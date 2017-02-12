@@ -23,8 +23,10 @@ public class GooglePlaceFinder {
                 Param.name("radius").value("1000"));
 //                Param.name("rankby").value("distance"));
         List<RestaurantDetails> lis = new ArrayList<>();
-        for (Place place : places) {
-            lis.add(new RestaurantDetails(place.getName(), place.getAddress(), place.getPhoneNumber()));
+        for (int i=0;i<3;i++) {
+            lis.add(new RestaurantDetails(places.get(i).getName(),
+                    places.get(i).getAddress(),
+                    places.get(i).getPhoneNumber()));
         }
         return lis;
     }

@@ -1,3 +1,4 @@
-com/findmefood/controllers/GreetingController.class
-com/findmefood/model/Greeting.class
+com/findmefood/controllers/FindPlaces.class
+com/findmefood/googleplace/GooglePlaceFinder.class
+com/findmefood/model/RestaurantDetails.class
 com/findmefood/SpringBootRestExampleApplication.class
