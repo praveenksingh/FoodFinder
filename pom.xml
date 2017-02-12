@@ -51,6 +51,16 @@
 			<version>20160810</version>
 		</dependency>
 		<dependency>
+			<groupId>com.google.api-client</groupId>
+			<artifactId>google-api-client</artifactId>
+			<version>1.22.0</version>
+		</dependency>
+        <dependency>
+            <groupId>net.sf.sprockets</groupId>
+            <artifactId>sprockets</artifactId>
+            <version>3.1.0</version>
+        </dependency>
+		<dependency>
 			<groupId>com.googlecode.places-api-client</groupId>
 			<artifactId>places-api-client</artifactId>
 			<version>1.0.0</version>
