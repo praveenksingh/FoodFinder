@@ -4,12 +4,12 @@ import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
 
 @SpringBootApplication
-public class SpringBootRestExampleApplication {
+public class FoodFinderRestServiceApplication {
 
 //    private final Faker faker = new Faker();
 
 	public static void main(String[] args) {
-		SpringApplication.run(SpringBootRestExampleApplication.class, args);
+		SpringApplication.run(FoodFinderRestServiceApplication.class, args);
 	}
 
 //    @Bean

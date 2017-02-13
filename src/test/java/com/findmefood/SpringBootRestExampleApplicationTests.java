@@ -9,7 +9,7 @@ import org.springframework.test.context.junit4.SpringJUnit4ClassRunner;
 
 @Ignore
 @RunWith(SpringJUnit4ClassRunner.class)
-@SpringApplicationConfiguration(classes = SpringBootRestExampleApplication.class)
+@SpringApplicationConfiguration(classes = FoodFinderRestServiceApplication.class)
 @WebAppConfiguration
 public class SpringBootRestExampleApplicationTests {
 
