@@ -1,4 +1,6 @@
-/Users/praveen/Documents/HackNeu/foodfinder/src/main/java/com/findmefood/controllers/FindPlaces.java
-/Users/praveen/Documents/HackNeu/foodfinder/src/main/java/com/findmefood/model/RestaurantDetails.java
-/Users/praveen/Documents/HackNeu/foodfinder/src/main/java/com/findmefood/googleplace/GooglePlaceFinder.java
-/Users/praveen/Documents/HackNeu/foodfinder/src/main/java/com/findmefood/SpringBootRestExampleApplication.java
+/Users/praveen/Documents/HackNeu/FoodFinder/src/main/java/com/findmefood/googleplace/GooglePlaceFinder.java
+/Users/praveen/Documents/HackNeu/FoodFinder/src/main/java/com/findmefood/controllers/FindPlaces.java
+/Users/praveen/Documents/HackNeu/FoodFinder/src/main/java/com/findmefood/FoodFinderRestServiceApplication.java
+/Users/praveen/Documents/HackNeu/FoodFinder/src/main/java/com/findmefood/googleplace/FoodPlaceFinder.java
+/Users/praveen/Documents/HackNeu/FoodFinder/src/main/java/com/findmefood/googleplace/ClientKey.java
+/Users/praveen/Documents/HackNeu/FoodFinder/src/main/java/com/findmefood/model/RestaurantDetails.java

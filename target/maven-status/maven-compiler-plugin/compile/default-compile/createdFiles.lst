@@ -1,4 +1,6 @@
+com/findmefood/googleplace/FoodPlaceFinder.class
 com/findmefood/controllers/FindPlaces.class
 com/findmefood/googleplace/GooglePlaceFinder.class
+com/findmefood/googleplace/ClientKey.class
+com/findmefood/FoodFinderRestServiceApplication.class
 com/findmefood/model/RestaurantDetails.class
-com/findmefood/SpringBootRestExampleApplication.class
